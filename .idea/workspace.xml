@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="663aa466-abef-4c60-a634-655241d19413" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/orig/0&amp;2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/orig/0&amp;2.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/orig/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/bowser/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/dexter/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/link/green/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sam/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sora/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/orig/0.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/0/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/1/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/2/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/3/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/0/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/2/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/3/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/tiles/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/vWalls/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/projectile/fireball/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/projectile/fireball/0/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/0/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/1/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/2/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/3/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/0/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/1/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/2/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/3/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/tiles/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/vWalls/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/0/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/1/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/megaman/0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/01.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/orig/1&amp;3.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/orig/1&amp;3.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/orig/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/bowser/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/dexter/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/link/green/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sam/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sora/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/orig/1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/0/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/2/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/3/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/0/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/2/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/3/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/tiles/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/vWalls/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/projectile/fireball/0/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/0/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/2/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/3/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/0/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/2/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/3/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/tiles/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/vWalls/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/0/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/1/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/megaman/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/dexter/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/12.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/orig/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/bowser/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/dexter/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/link/green/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sam/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sora/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/orig/2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/0/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/2/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/3/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/0/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/2/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/3/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/tiles/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/vWalls/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/projectile/fireball/0/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/0/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/2/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/3/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/0/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/2/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/3/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/tiles/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/vWalls/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/0/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/1/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/megaman/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/dexter/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/23.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/orig/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/bowser/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/dexter/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/link/green/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sam/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/sora/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/orig/3.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/0/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/2/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/3/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/0/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/2/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/3/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/tiles/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/vWalls/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/projectile/fireball/0/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/0/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/2/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/3/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/0/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/2/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/3/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/tiles/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/vWalls/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/0/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/fireball/1/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/projectile/megaman/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/character/mario/30.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/33.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/0/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/1/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/2/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/3/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/0/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/2/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/3/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/tiles/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/vWalls/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/0/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/1/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/2/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/3/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/0/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/1/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/2/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/3/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/tiles/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/vWalls/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/0/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/1/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/2/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/3/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/0/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/2/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/3/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/tiles/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/vWalls/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/0/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/1/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/2/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/3/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/0/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/1/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/2/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/3/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/tiles/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/vWalls/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/0/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/1/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/2/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/evilmegaman/3/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/0/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/2/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/megaman/3/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/0/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/1/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/2/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/evilmegaman/3/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/0/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/1/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/2/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/megaman/3/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/AbstractBar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/AbstractBuff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/AbstractCountdownObject$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/AbstractCountdownObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/AbstractInventoryItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/AbstractSkill.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/Adad's Descent.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/BluePortal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/BluePortal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/BluePortalSkill.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/BuffManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Candle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Character.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/ClickableObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/CountdownListener.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/CreateMazeTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Door.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/DrawMazeTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/Dungeon Key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/Dungeon Key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/Equipment-Sword-BiggoronSword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/Equipment-Sword-BiggoronSword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/Equipment-Sword-KokiriSword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/Equipment-Sword-KokiriSword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/ExpBar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/FootSteps.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/FunnyRun.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/GreyPortal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/GreyPortal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/HealthBar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/HealthPotion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/Icon-Dungeon-Key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/Icon-Dungeon-Key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/Icon-Dungeon-Map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/Icon-Dungeon-Map.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/Inventory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryHealthPotion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryKey.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryManaPotion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryObstacle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/Item-Bottle-Empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/Item-Bottle-Empty.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/Item-Bottle-GreenPotion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/Item-Bottle-GreenPotion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Item.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Key.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Lighting.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/ManaBar.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/ManaPotion.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Map.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/MapObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/Maze.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/MazeGame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/MazeGame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Monster$MonsterAttributes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Monster.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/MoveableObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Obstacle.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/ObstacleItem.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/OrangePortal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/OrangePortal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/OrangePortalSkill.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/PickUpKey1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Player.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Portal.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Projectile$ProjectileAttribute.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Projectile.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/ProjectileSkill.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/R$audio.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/R.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/screenpictures/RIP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/screenpictures/RIP.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/SightBooster.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/SightBuff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/SkillManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/SolveMazeTask.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/SpeedBooster.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/SpeedBuff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/SpikeBlockade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/SpikeBlockade.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/SpikedBarrier1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/SpikedBarrier1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/Sprite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/TimeFreeze.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/TimeFreezeBuff.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/barrier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/barrier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/map/items/barrier.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/map/items/barrier.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/bin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/bin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/bluepotion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/bluepotion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/candle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/candle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/candle.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/character1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/character1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/chestclosed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/chestclosed.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/chestopen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/chestopen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/ding.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/ding1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/door0(3).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/door0(3).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/door0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/door0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/door1(3).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/door1(3).png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/door1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/door1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/map/door1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/map/door1.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/map/door2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/gui/dungeon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/screenpictures/dungeon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/gui/dungeon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/screenpictures/dungeon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/fireball.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/fist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/fist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/gui/gameOver.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/screenpictures/gameOver.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/gui/gameOver.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/screenpictures/gameOver.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/goblin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/goblin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/haloDie.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/hourglass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/hourglass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/hourglass.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/hourglass.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/key.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/key2.pbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/key2.pbm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/key2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/key2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/lightning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/minotaur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/minotaur.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/other/ngbbs4871e4aed72bd.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/other/ngbbs4871e50e6ee38.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/off.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/pickUpItem.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/pickUpItem1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/pickUpKey.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/pilotDie.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/portal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/portal.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/map/portal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/map/portal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_ambient_loop1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_close1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_close2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_fizzle2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_invalid_surface3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_open1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_open2.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portal_open3.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portalgun_powerup1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portalgun_shoot_blue1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/aud/portalgun/portalgun_shoot_red1.wav" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/redpotion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/redpotion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/baus/sam_walk_east.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/baus/sam_walk_east.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/baus/sam_walk_north.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/baus/sam_walk_north.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/baus/sam_walk_south.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/baus/sam_walk_south.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/character/baus/sam_walk_west.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/character/baus/sam_walk_west.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/sightbooster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/sightbooster.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/candle/sprite.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/candle/sprite.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/gui/title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/gui/title.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/gui/title.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/gui/title.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/obj/troll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/troll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/AbstractBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/AbstractBuff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/AbstractCountdownObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/AbstractInventoryItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/AbstractSkill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/BluePortalSkill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/BuffManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Candle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Character.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/ClickableObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/CountdownListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/CreateMazeTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Door.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Door.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/DrawMazeTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Dungeon Maze.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/ExpBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/GUIPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Gabriel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/HealthBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/HealthPotion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/HomePane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/InstructionsPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/InstructionsPane.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/Inventory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryHealthPotion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryKey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryManaPotion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/inventory/InventoryObstacle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Item.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Key.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Lighting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/MainFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/ManaBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/ManaPotion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Map.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/MapObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/Maze.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/MazeGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/MazePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/MazePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Menu.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Monster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/MoveableObject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Obstacle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/ObstacleItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/OrangePortalSkill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Player.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/map/Portal.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Potion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/Projectile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/ProjectileSkill.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/R.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/SaveImageTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/SightBooster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/SightBuff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/skill/SkillManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/maze/SolveMazeTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/SpeedBooster.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/SpeedBuff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/display/Sprite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/Template.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/items/TimeFreeze.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/game/buff/TimeFreezeBuff.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/link.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/equip/link.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/img/icons/link.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/link.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/equip/link.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/icons/link.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/res/img/obj/other/pins/link.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="Dungeon Maze.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="663aa466-abef-4c60-a634-655241d19413" time="1373858558545" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Dungeon Maze" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="width" value="1900" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dungeon Maze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dungeon Maze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dungeon Maze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dungeon Maze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Dungeon Maze" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Git/bin/git.exe" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\Gabriel\My Documents\IntelliJ Library\Dungeon Maze\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainFrame">
+    <configuration default="false" name="MainFrame" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="display.MainFrame" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Dungeon Maze" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.MainFrame" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainFrame" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="663aa466-abef-4c60-a634-655241d19413" name="Default" comment="" />
+      <created>1373857971293</created>
+      <updated>1373857971293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="0" width="1900" height="1040" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32918552" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24972796" sideWeight="0.670068" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972796" sideWeight="0.670068" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32993197" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/game/MazeGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="37" selection-start="2234" selection-end="2234" vertical-scroll-proportion="-13.879953">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="19" selection-start="1057" selection-end="1057" vertical-scroll-proportion="0.57459205">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maze/Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="27" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/items/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="14" selection-start="2249" selection-end="2251" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/map/MapObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="133" selection-start="648" selection-end="648" vertical-scroll-proportion="0.5132743">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Character.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="219" column="31" selection-start="4713" selection-end="4713" vertical-scroll-proportion="0.3079646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/display/MainFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="34" selection-start="501" selection-end="501" vertical-scroll-proportion="0.30088496">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
